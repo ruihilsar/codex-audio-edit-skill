@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+work/
+outputs/
+models/
+
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.aac
+
+.env
+*.key

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edit Two-Person Audio"
+  short_description: "Align and clean two separately recorded voices"
+  default_prompt: "Use $edit-two-person-audio to align, merge, clean, and verify these two voice recordings."
